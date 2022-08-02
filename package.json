@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/show-night-hey-ya/typescript-for-javascript-developer/issues"
   },
-  "homepage": "https://github.com/show-night-hey-ya/typescript-for-javascript-developer#readme"
+  "homepage": "https://github.com/show-night-hey-ya/typescript-for-javascript-developer#readme",
+  "dependencies": {
+    "save-dev": "^0.0.1-security",
+    "typescript": "^3.7.5"
+  }
 }
